@@ -1,0 +1,7 @@
+# Refleksi
+
+Platform yang paling menarik untuk saya pelajari adalah platform Web. Menurut saya, platform Web menarik karena dapat diakses melalui berbagai perangkat tanpa harus melakukan instalasi aplikasi terlebih dahulu. Selain itu, pengembangan Web memiliki banyak sumber pembelajaran sehingga cocok untuk dipelajari oleh pemula yang ingin memahami dasar pemrograman.
+
+Tantangan terbesar saat melakukan setup environment adalah memastikan semua tools yang dibutuhkan dapat terpasang dan berjalan dengan baik. Pada proses instalasi, saya mengalami kendala ketika beberapa tools belum terdeteksi melalui terminal, seperti Java yang belum terbaca setelah proses instalasi. Selain itu, saya juga perlu memahami penggunaan Git dan GitHub untuk membuat repository, melakukan clone, commit, dan push file.
+
+Untuk mengatasi tantangan tersebut, saya akan lebih banyak mempelajari dokumentasi resmi dari setiap tools yang digunakan serta mencoba melakukan praktik secara bertahap. Saya juga akan mencari referensi tambahan melalui tutorial dan berdiskusi ketika mengalami kendala. Dengan latihan yang rutin, saya berharap dapat lebih memahami proses pengembangan aplikasi berbasis platform dan meningkatkan kemampuan pemrograman saya.
